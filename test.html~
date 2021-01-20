@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html>
+  <head>
+<title>Just Another Web Page</title>
+    <meta charset="UTF-8">
+
+   
+  </head>
+  <body>
+    <h1>WELCOME<h1>
+	
+    <p>This is a paragraph with a
+      <a href="https://www.holbertonschool.com">clickable link</a>.
+    </p>
+
+   <h2> <p>This is a great paragraph. I really like writing content that I can use in my websites. I hope that you enjoy this as much as I do. </p><h2>
+
+    <p>Here is an image: <img src="https://www.holbertonschool.com/holberton-logo.png">.</p>
+
+   <h3> <p>
+      Here is a clickable image:
+      <a href="https://www.holbertonschool.com">
+	<img src="https://www.holbertonschool.com/holberton-logo.png">
+      </a>.
+    </p><h3>
+
+    
+  </body>
+  </html>
+
+<footer> Made by Rafael Marquina for <a href="https://www.holbertonschool.com" target="_blank">Holberton School</a>
